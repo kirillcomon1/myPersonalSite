@@ -121,6 +121,15 @@ video::-webkit-media-controls {
   }
 }
 
+.future {
+  background-color: orange !important;
+  transition: all 0.8s ease 0s;
+}
+
+.future:hover {
+  background-color: red !important;
+}
+
 .cd-slider-nav {
   text-align: center;
 }
